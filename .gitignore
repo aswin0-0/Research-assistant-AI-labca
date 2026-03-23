@@ -1,0 +1,39 @@
+# Virtual Environment
+resea/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+agent_interaction_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.pickle
+*.pkl
+.cache/
